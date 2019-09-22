@@ -10,7 +10,7 @@
     "watch-node": "nodemon dist/server.js",
     "watch-ts": "tsc -w"
   },
-  "author": "Kirithika",
+  "author": "Kannan",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^1.19.2",
